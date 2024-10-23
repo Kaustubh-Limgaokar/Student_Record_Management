@@ -1,6 +1,7 @@
 #include"header.h"
 int c;
 st *head;
+char flag;
 void main(){
 char ch;
 while(1){
